@@ -1,0 +1,2 @@
+# PropConnect-AI-Powered-Real-Estate-Assistant-System
+PropConnect is an AI-powered real estate assistant for buyers, sellers, tenants and landlords. It handles voice and chat inquiries, identifies customer intent, collects property needs, retrieves verified listings, qualifies leads, supports bookings and follow-ups, and escalates complex requests to human agents while respecting privacy and consent.
